@@ -7,9 +7,3 @@ All pull requests will require you to ensure the change is certified via the Dev
 The DCO is a lightweight way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project.
 
 Please note we have a Code of Conduct, please follow it in all your interactions with the project and its community.
-
-Coding Standards
-This project adheres to the PEP 8 Python Coding Style Guidelines, Django naming conventions, and other standards.
-
-Programming Languages
-Scripts are written for "bash" shell. Python code is written at the Python 3.6 level.
